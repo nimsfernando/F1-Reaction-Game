@@ -60,6 +60,8 @@ python reaction_time.py
 
 ---
 
+Created as my first Python GUI project.
+
 ## 👨‍💻 Developer
 
 Created by **Nimsara Fernando**
