@@ -1,4 +1,4 @@
-# 🏎️ F1 Reaction Challenge
+# 🏎️ F1 Reaction Challenge |Python + Tkinter
 
 A Formula 1 inspired reaction time game built with **Python** and **Tkinter**.
 
