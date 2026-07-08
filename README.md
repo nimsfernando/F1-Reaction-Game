@@ -18,6 +18,13 @@ The game recreates the iconic F1 starting lights sequence. Wait for the lights t
 - 🎨 Simple Formula 1 inspired interface
 
 ---
+## 🎮 Controls
+
+- Click **START** to begin.
+- Wait for all five lights.
+- Click as soon as the lights go out.
+- Clicking early results in a false start.
+- Beat your personal best!
 
 ## 🛠️ Built With
 
@@ -46,9 +53,29 @@ python reaction_time.py
 
 ## 📸 Preview
 
-*(Screenshot coming soon)*
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/a7a94bd2-a974-4ce0-988b-2f9aad02d16d" />
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/d9eebe6f-5926-4026-abce-f8d134c91522" />
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/b6dfb773-ca4f-454d-857a-d1a96a172a53" />
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/a41e4751-688e-405c-902c-33397b06fc59" />
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/e89dc4f4-fd90-43bd-873e-ea88c9c83c76" />
+
+
+
+
+
 
 ---
+
+## 📚 What I Learned
+
+This project helped me practice:
+
+- Python functions
+- Tkinter GUI development
+- Event handling
+- Timers (`after()`)
+- Game state management
+- Git & GitHub
 
 ## 🚀 Future Improvements
 
